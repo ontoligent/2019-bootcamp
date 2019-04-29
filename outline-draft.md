@@ -45,7 +45,7 @@
   3. manipulating
 4. Simple Plots
 5. Tidying up
-6. ReadingList:  [R for data sc ience](r4ds.had.co.nz) 
+6. ReadingList:  [R for data sc ience](https://r4ds.had.co.nz/) 
 
 ## Python3
 0. History

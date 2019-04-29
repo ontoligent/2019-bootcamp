@@ -16,7 +16,7 @@
 3. version control (git/github)
 4. getting terminal on windows
 5. text editor v word processor (VS Code)
-6. # is a comment in BASH,R,Python
+6. "#" is a comment in BASH,R,Python
 7. pwd, ls, cd, history (they can learn the rest on their own)
 8. intro questions- not to answer but to set the framing and plant seeds
   * When should I terminal/script/program/text editor/IDE

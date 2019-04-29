@@ -25,7 +25,7 @@
   * It's ok to freeze and not know what to do, that means you are about to learn. Feel the burn
   * Which ml tool is  right for the job
   * How  do I translate a research question into a data question? How to I translate a data  answer to a research answer?
-9. Reading list: [ [galileo.phys.virginia.edfu/edu/compfac/ccourses] , geek-hours/shell.html , git/github - daniel has some stuff ]
+9. Reading list: [ (bryan wright's stuff)[galileo.phys.virginia.edfu/edu/compfac/ccourses] , geek-hours/shell.html , git/github - daniel has some stuff ]
 
 ## R
 0. History
@@ -45,7 +45,7 @@
   3. manipulating
 4. Simple Plots
 5. Tidying up
-6. ReadingList: [ r4ds.had.co.nz ] 
+6. ReadingList: [ (R for data sc ience)[r4ds.had.co.nz] ] 
 
 ## Python3
 0. History

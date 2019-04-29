@@ -22,4 +22,3 @@ Materials for the 2019 July Resedential Bootcamp
 | July 1 PM | R | Dr. Jones | |
 | July 2 AM | Python3 | Dr. Alonzi | |
 | July 2 PM | Data Science | Professor Flower | |
-|------|-------|------------|----------|

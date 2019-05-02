@@ -14,6 +14,9 @@
 1. operating system
 2. shell (bash) - log on to sagemaker for unified terminal
 3. version control (git/github)
+ * use: mkdir lpa2a
+ * cd lpa2a
+ * git clone ...
 4. gpush user specific mechanism to get a terminal to after class
 5. text editor v word processor (VS Code)
 6. "#" is a comment in BASH,R,Python

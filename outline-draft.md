@@ -17,7 +17,7 @@
  * use: mkdir lpa2a
  * cd lpa2a
  * git clone ...
-4. gpush user specific mechanism to get a terminal to after class
+4. push user specific mechanism to get a terminal to after class
 5. text editor v word processor (VS Code)
 6. "#" is a comment in BASH,R,Python
 7. pwd, ls, cd, history (they can learn the rest on their own)

@@ -23,26 +23,5 @@ Materials for the 2019 July Resedential Bootcamp
 | July 2 AM | Python3 | Dr. Alonzi | |
 | July 2 PM | Data Science | Professor Flower | |
 
-### Computers!
-* How computers work
-* Operating System
-* The Shell (BASH)
-* Memory
-* Version Control (GitHub)
-
-### R
-* Download and Install (Rstudio)
-* Base R programming
-* Dataframes
-* Base and Tidy
-
-### Python3
-* Download and Install (Anaconda)
-* Spyder
-* Python programming
-* Python packages (like pandas)
-
-### Data Science
-* High Level science
-* Putting the pieces of the pipeline together
-* Using the tools from earlier to analyze a dataset
+## High Level outline
+https://github.com/alonzi/2019-bootcamp/blob/master/high-level-outline.md

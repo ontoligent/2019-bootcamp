@@ -4,7 +4,7 @@ This document lists the high level points that will be covered in the DSI bootca
 
 
 
-## July 1, AM: Dr. Alvarado - Intro to computers
+## July 1, AM: Intro to computers for scientists
 0. High Level questions to frame the program - not to answer today
   * When should I terminal/script/program/text editor/IDE?
   * When should I use R v Python?
@@ -27,7 +27,7 @@ This document lists the high level points that will be covered in the DSI bootca
   * [bryan wright's stuff](http://galileo.phys.virginia.edu/compfac/courses/sysadmin1)
   * geek-hours/shell.html
 
-## R
+## July 1, PM: R
 0. History
 1. Rstudio and installation
   1. tour / hotkeys
@@ -48,7 +48,7 @@ This document lists the high level points that will be covered in the DSI bootca
 6. ReadingList:  
   * [R for data science](https://r4ds.had.co.nz/) 
 
-## Python3
+## July 2, AM: Python3
 0. History
 1. anaconda/spyder/jupyter
   1. tour and hotkeys
@@ -65,7 +65,7 @@ This document lists the high level points that will be covered in the DSI bootca
 6. Reading List:  
   * [Python Data Science Handbook by VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-## Thinking like a data scientist (aka Putting it all togegther (aka the fun part)))
+## July 2, PM: Thinking like a data scientist (aka Putting it all togegther (aka the fun part)))
 This is language agnostic. The prompt works for R and Python. We give examples in both languages.
 The goal of this part is to open the world to how a data scientist operates and thinks.
 

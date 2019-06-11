@@ -63,7 +63,7 @@ This document lists the high level points that will be covered in the DSI bootca
 4. simple plot
 5. Load data into data frame
 6. Reading List:  
-  * vanderplas python data science handbook
+  * [Python Data Science Handbook by VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Thinking like a data scientist (aka Putting it all togegther (aka the fun part)))
 This is language agnostic. The prompt works for R and Python. We give examples in both languages.

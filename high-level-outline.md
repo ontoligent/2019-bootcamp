@@ -46,7 +46,7 @@ This document lists the high level points that will be covered in the DSI bootca
 4. Simple Plots
 5. Tidying up
 6. ReadingList:  
-  * [R for data sc ience](https://r4ds.had.co.nz/) 
+  * [R for data science](https://r4ds.had.co.nz/) 
 
 ## Python3
 0. History

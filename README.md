@@ -5,12 +5,12 @@ Materials for the 2019 July Resedential Bootcamp
 * Who: Students entering the MSDS program and Instructors from UVA 
 * What: Training in the first steps of Data Science
 * When: July 1 & 2, 09:00-16:00
-* Where: Monroe 124
+* Where: Monroe 124 (lunch provided)
 * Why: This program is for getting people into shape for the coming MSDS Program
 * How: Presentations about various topics, bring your laptop and play along.
 
 ## To do before arriving
-* set up UVA account
+* set up [UVA account](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=4bfbe33cdbde5f405bce5478dc9619ff)
 * Bookmark this page
 * Bring a laptop and charger
 * Dress appropriately for graduate school class
@@ -25,3 +25,6 @@ Materials for the 2019 July Resedential Bootcamp
 
 ## High Level outline
 https://github.com/alonzi/2019-bootcamp/blob/master/high-level-outline.md
+
+## Wifi Info
+* [uva wifi](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=3c2e1413db7acb804f32fb671d9619f4)

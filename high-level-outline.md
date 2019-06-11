@@ -14,11 +14,12 @@ This document lists the high level points that will be covered in the DSI bootca
   * How  do I translate a research question into a data question? How to I translate a data answer to a research answer?
 1. operating systems
 2. the shell
-  1. CLI - BASH
-    * use sagemaker for unified terminal environment
-    * mkdir, cd, ls, history
-    * installation on student laptop is homework
-  2. GUI
+  * Command Line Interface (CLI):
+     1. We use the Bourne-again Shell (BASH)
+     1. use sagemaker for unified terminal environment
+     2. mkdir, cd, ls, history
+     3. installation on student laptop is homework
+  * GUI
 3. version control (git/github)
 5. text editor v word processor v IDE (eg: vi vs. VS Code vs. Rstudio)
 6. grab bag

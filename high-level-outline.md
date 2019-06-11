@@ -5,13 +5,13 @@ This document lists the high level points that will be covered in the DSI bootca
 
 
 ## July 1, AM: Dr. Alvarado - Intro to computers
-7. High Level questions to frame the program - not to answer but to plant seeds
-  * When should I terminal/script/program/text editor/IDE
-  * When should I use R v Python
+0. High Level questions to frame the program - not to answer today
+  * When should I terminal/script/program/text editor/IDE?
+  * When should I use R v Python?
   * Does this fit in memory/ Do I need more than my laptop?
   * It's ok to freeze and not know what to do, that means you are about to learn. Feel the burn
-  * Which ml tool is  right for the job
-  * How  do I translate a research question into a data question? How to I translate a data  answer to a research answer?
+  * Which ml tool is  right for the job?
+  * How  do I translate a research question into a data question? How to I translate a data answer to a research answer?
 1. operating systems
 2. the shell
   1. CLI - BASH
@@ -50,7 +50,7 @@ This document lists the high level points that will be covered in the DSI bootca
 
 ## Python3
 0. History
-1. anaconda/spyder
+1. anaconda/spyder/jupyter
   1. tour and hotkeys
   2. workind directory
   3. commandline from inside spyder

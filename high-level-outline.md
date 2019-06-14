@@ -66,7 +66,7 @@ This document lists the high level points that will be covered in the DSI bootca
 6. Reading List:  
   * [Python Data Science Handbook by VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-## July 2, PM: Thinking like a data scientist (aka Putting it all togegther (aka the most fun part))
+## July 2, PM: Data, first steps
 This is language agnostic. The prompt works for R and Python. We give examples in both languages.
 The goal of this part is to open the world to how a data scientist operates and thinks.
 

@@ -71,7 +71,7 @@ When we start reading in data it will be important that the _code and the data a
 
 Once you have a project set up, when you want to read in dataset _whatever.txt_, you will be able to easily specify the path pointing to _whatever.txt_ rather than having to specify a full path. This is critical for reproducibility, and we'll talk about that more later.
 
-To get things arranged for later, please download the dataset we are going to use. Right click --> Save link as to download the file to your computer.
+To get things arranged for later, please download the dataset we are going to use. Click the link below to download the file to your computer.
 
 [gapminder data set](data/gapminder.csv)
 

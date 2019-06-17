@@ -1,5 +1,5 @@
 # 2019-bootcamp
-Materials for the 2019 July Resedential Bootcamp
+Materials for the 2019 July Residential Bootcamp
 
 ## WWWWWH
 * Who: Students entering the MSDS program and Instructors from UVA 

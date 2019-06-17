@@ -73,11 +73,11 @@ Once you have a project set up, when you want to read in dataset _whatever.txt_,
 
 To get things arranged for later, please download the dataset we are going to use. Right click --> Save link as to download the file to your computer.
 
-[gapminder data set](R/data/gapminder.csv)
+[gapminder data set](data/gapminder.csv)
 
 Move the dataset to your IntroR directory in a subfolder called **data**.
 
-![File structure](R/images/filestructure.png){width=450px}
+![File structure](images/filestructure.png){width=450px}
 
 Now that we have a project directory and the dataset inside that project directory, let's open up a new script and begin coding! Go to File --> New --> New R Script
 
@@ -821,7 +821,7 @@ Just like we did with values and vectors, let's assign a name to the output of `
 
 
 ```r
-gm <- read.csv("R/data/gapminder.csv")
+gm <- read.csv("data/gapminder.csv")
 ```
 
 Let's look at this object by calling its name

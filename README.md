@@ -24,7 +24,7 @@ Materials for the 2019 July Resedential Bootcamp
 | July 2 PM | Data | Professor Flower | | [link](https://github.com/alonzi/2019-bootcamp/tree/master/Data-Science-Mindset) |
 
 ## High Level outline
-https://github.com/alonzi/2019-bootcamp/blob/master/high-level-outline.md
+https://github.com/UVA-DSI/2019-bootcamp/blob/master/high-level-outline.md
 
 ## Resources
 ### UVA Info

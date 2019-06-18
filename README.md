@@ -26,5 +26,8 @@ Materials for the 2019 July Resedential Bootcamp
 ## High Level outline
 https://github.com/alonzi/2019-bootcamp/blob/master/high-level-outline.md
 
-## Wifi Info
+## Resources
+### UVA Info
 * [uva wifi](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=3c2e1413db7acb804f32fb671d9619f4)
+### Further Reading
+* [R vs. Python](https://github.com/matloff/R-vs.-Python-for-Data-Science)

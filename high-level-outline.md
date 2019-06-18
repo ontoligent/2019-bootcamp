@@ -1,4 +1,4 @@
-# High Level Outline for 2019 DSI resedential bootcamp
+# High Level Outline for 2019 DSI residential bootcamp
 
 This document lists the high level points that will be covered in the DSI bootcamp. Each instructor will build out the details of their section.
 
@@ -30,10 +30,10 @@ This document lists the high level points that will be covered in the DSI bootca
 
 ## July 1, PM: R
 0. History
-1. Rstudio and installation
+1. RStudio and installation
   1. tour / hotkeys
-  2. projeccts and wro0king diretory
-  3. commandline from inside Rstudio
+  2. projects and working diretory
+  3. commandline from inside RStudio
 2. Base R essential tools
   1. c(...), functions how they work
   2. "anatomy of coding" aka syntax or grammar
@@ -53,7 +53,7 @@ This document lists the high level points that will be covered in the DSI bootca
 0. History
 1. anaconda/spyder/jupyter
   1. tour and hotkeys
-  2. workind directory
+  2. working directory
   3. commandline from inside spyder
 2. python 3 essentials
   1. int,float,string,lists

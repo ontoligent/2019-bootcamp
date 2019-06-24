@@ -29,5 +29,6 @@ https://github.com/UVA-DSI/2019-bootcamp/blob/master/high-level-outline.md
 ## Resources
 ### UVA Info
 * [uva wifi](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=3c2e1413db7acb804f32fb671d9619f4)
+* [infosheet](https://github.com/UVA-DSI/2019-bootcamp/blob/master/boot_camp_infosheet.pdf)
 ### Further Reading
 * [R vs. Python](https://github.com/matloff/R-vs.-Python-for-Data-Science)

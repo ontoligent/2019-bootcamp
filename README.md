@@ -5,7 +5,7 @@ Materials for the 2019 July Residential Bootcamp
 * Who: Students entering the MSDS program and Instructors from UVA 
 * What: Training in the first steps of Data Science
 * When: July 1 & 2, 09:00-16:00 (please arrive 10 minutes early on July 1)
-* Where: Monroe 124 (lunch provided)
+* Where: Thornton A120 (lunch provided)
 * Why: This program is for getting people into shape for the coming MSDS Program
 * How: Presentations about various topics, bring your laptop and play along.
 

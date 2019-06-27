@@ -11,7 +11,7 @@ Materials for the 2019 July Residential Bootcamp
 
 ## To do before arriving
 * set up [UVA account](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=4bfbe33cdbde5f405bce5478dc9619ff)
-* confirm your netbadge works here: [rivanna portal](https://rivanna-portal.hpc.virginia.edu/pun/sys/dashboard) - (if asked for allocation enter "uva-dsi-opendatalab")
+* confirm your netbadge works here: [rivanna portal](https://rivanna-portal.hpc.virginia.edu/pun/sys/dashboard) - (if asked for allocation enter "uva-dsi-msds")
 * Bookmark this page (github.com/uva-dsi/2019-bootcamp)
 * Bring a laptop and charger
 * Dress appropriately for graduate school class

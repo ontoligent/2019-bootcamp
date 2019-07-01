@@ -13,3 +13,16 @@
 2. Find where the real text begins.
 3. Enter the command `more pg105.txt | grep happiness`. What do you see?
 4. Try this: `more pg105.txt | grep happiness > happiness.txt`. Then look at the directory contents. What do you see?
+
+## Part 3
+
+1. Use `vi` to remove the Gutenberg boilerplate from `pg105.txt`.
+
+## Part 4
+
+1. Enter `mv pg105.txt persuasion.txt`
+2. Look at the Directory and see what happened.
+3. Enter `cp persuasion.txt foo`. Go into `foo` directory and list its contents.
+4. Enter `cd ..`. List the contents of the directory. Where are you?
+5. Enter `rmdir foo`. What happens?
+6. Enter `rm -rf foo`. What happens?

@@ -13,10 +13,13 @@
 2. Find where the real text begins.
 3. Enter the command `more pg105.txt | grep happiness`. What do you see?
 4. Try this: `more pg105.txt | grep happiness > happiness.txt`. Then look at the directory contents. What do you see?
+5. Try this: `more pg105.txt | grep Chapter` and then `more pg105.txt | grep Chapter | wc`. What does the result tell you?
 
 ## Part 3
 
-1. Use `vi` to remove the Gutenberg boilerplate from `pg105.txt`.
+1. Use `vi` to remove the Gutenberg boilerplate from the beginning of `pg105.txt`.
+2. Use `vi`'s search command -- `/` -- and search for `Finis`. Remove the extra lines from the end of the file. Save the file.
+3. Now count how many lines the text has.
 
 ## Part 4
 

@@ -35,3 +35,4 @@ ls --help
 ## Resources
 
 * Here is a good tutorial to learn more about navigating the file system: https://www.tutorialspoint.com/unix/unix-directories.htm
+* Here is a good general cheet sheet for Linux.

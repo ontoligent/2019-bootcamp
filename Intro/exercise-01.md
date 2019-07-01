@@ -24,3 +24,10 @@ ls --help
 
 1. Enter `cd Documents`
 2. List the contents of the directory.  What do you see?
+
+## Part 4
+
+1. Enter `cd`
+2. Enter 'pwd`
+3. Where are you now?
+4. Now, go back to the Documents directory.

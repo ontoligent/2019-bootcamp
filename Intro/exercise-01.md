@@ -31,3 +31,7 @@ ls --help
 2. Enter 'pwd`
 3. Where are you now?
 4. Now, go back to the Documents directory.
+
+## Resources
+
+* Here is a good tutorial to learn more about navigating the file system: https://www.tutorialspoint.com/unix/unix-directories.htm

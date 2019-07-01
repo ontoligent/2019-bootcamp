@@ -21,3 +21,4 @@
 ## Part 3
 
 1. Download and install Git on your local computer.
+2. Clone the repo you just made to your local computer.

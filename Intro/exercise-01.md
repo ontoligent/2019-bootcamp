@@ -1,4 +1,4 @@
-# Exercise 1
+# Exercises
 
 ## Part 1
 
@@ -29,9 +29,8 @@ ls --help
 
 1. Enter `vi myfile.txt`
 2. Use the following information to add content to the file and save it. 
-> Command mode is the deault mode when you start vi
-> Enter "i" or "a" to start editing
->  Enter ESC to get back to command mode
-> Enter "w" to write  a file, "q" to quit
-> A good cheat sheet can be found here
-> https://ryanstutorials.net/linuxtutorial/cheatsheetvi.php 
+  * Command mode is the default mode when you start `vi`.
+  * Enter `i` or `a` to start editing.
+  * Enter `ESC` to get back to command mode.
+  * Enter `w` to write a file, `q` to quit.
+  * A good cheat sheet can be found here: https://ryanstutorials.net/linuxtutorial/cheatsheetvi.php 

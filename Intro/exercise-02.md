@@ -16,3 +16,10 @@
 1. Enter `more myfile.txt`
 2. Enter `wc myfile.txt`
 3. Enter `wc -l myfile.txt`
+
+## Part 3
+
+1. Enter `mkdir foo`
+2. Enter `mv myfile.txt foo`
+3. List the contents of the  current directory. Where is the  file?
+4. Change into the  directory where the file  is.

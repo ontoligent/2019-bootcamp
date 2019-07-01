@@ -20,6 +20,7 @@
 1. Use `vi` to remove the Gutenberg boilerplate from the beginning of `pg105.txt`.
 2. Use `vi`'s search command -- `/` -- and search for `Finis`. Remove the extra lines from the end of the file. Save the file.
 3. Now count how many lines the text has.
+4. What does this do? `more pg105.txt | grep ^\s*$ | wc -l`
 
 ## Part 4
 

@@ -17,6 +17,7 @@
 7. Enter `git commit`.
 8. If you are asked to enter some global variables, do so and enter the command again.
 9. What happens?
+10. Enter `git push`. What happens? Go to your repo on Github to see if there are any changes there.
 
 ## Part 3
 

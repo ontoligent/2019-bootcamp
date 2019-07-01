@@ -3,6 +3,7 @@
 ## Part 1
 
 1. In the Documents directory, enter the command `wget https://raw.githubusercontent.com/ontoligent/2019-bootcamp/master/Intro/pg105.txt`
+2. How many words does the file have?
 2. How many lines does the file have?
 
 ## Part 2

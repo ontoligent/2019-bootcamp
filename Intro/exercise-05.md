@@ -1,4 +1,4 @@
-# Challenges
+# Exercise 5
 
 ## Change the shell prompt 
 

@@ -28,7 +28,7 @@ ls --help
 ## Part 4
 
 1. Enter `cd`
-2. Enter 'pwd`
+2. Enter `pwd`
 3. Where are you now?
 4. Now, go back to the Documents directory.
 

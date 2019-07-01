@@ -8,7 +8,7 @@
   * Enter `i` or `a` to start editing.
   * Enter `ESC` to get back to command mode.
   * Enter `w` to write a file, `q` to quit.
-  * A good cheat sheet can be found here: https://www.tutorialspoint.com/unix/unix-vi-editor.htm
+  * A good cheat sheet can be found here https://www.tutorialspoint.com/unix/unix-vi-editor.htm and here https://ryanstutorials.net/linuxtutorial/cheatsheet.php.
 <!--  https://ryanstutorials.net/linuxtutorial/cheatsheetvi.php  -->
   
 ## Part 2
